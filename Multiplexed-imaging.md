@@ -22,3 +22,6 @@ Important properties of barcode
 6. Fix antibodies that are already bound
 7. Stain tissue and dry the slides manually around the tissue
 
+# Things to thing about for project  
+1. what is biological comparison?
+2. what do you wan to analyze (Cellular organization, cell-cell interaction,...)
